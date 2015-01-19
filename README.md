@@ -1,2 +1,2 @@
 # FitTrip
-Final Demoed product from MHacks V
+Final Demo'd product from MHacks V
