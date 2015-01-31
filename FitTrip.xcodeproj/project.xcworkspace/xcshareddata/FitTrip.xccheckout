@@ -12,20 +12,24 @@
 	<dict>
 		<key>7110DFEF55CB9DE9A4AEE9BCB3C1D1A6A082D096</key>
 		<string>https://github.com/zsniper/WeatherHack2.git</string>
+		<key>755B2A2E72E53E89DC4D47D6E6D6895F1391B0E1</key>
+		<string>https://github.com/zsniper/FitTrip.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>FitTrip.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7110DFEF55CB9DE9A4AEE9BCB3C1D1A6A082D096</key>
+		<string>../../../FitTrip</string>
+		<key>755B2A2E72E53E89DC4D47D6E6D6895F1391B0E1</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/zsniper/WeatherHack2.git</string>
+	<string>https://github.com/zsniper/FitTrip.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7110DFEF55CB9DE9A4AEE9BCB3C1D1A6A082D096</string>
+	<string>755B2A2E72E53E89DC4D47D6E6D6895F1391B0E1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>7110DFEF55CB9DE9A4AEE9BCB3C1D1A6A082D096</string>
 			<key>IDESourceControlWCCName</key>
 			<string>FitTrip</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>755B2A2E72E53E89DC4D47D6E6D6895F1391B0E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FitTripOff</string>
 		</dict>
 	</array>
 </dict>
