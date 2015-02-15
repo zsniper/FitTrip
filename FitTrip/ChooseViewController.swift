@@ -28,7 +28,7 @@ class ChooseViewController: UIViewController, UITableViewDelegate, UITableViewDa
         applyMediumShadow(hintView)
         
         tableView.tableFooterView = UIView(frame: CGRectMake(0, 0, tableView.bounds.width, 76))
-        
+    
         
         self.navigationItem.backBarButtonItem = UIBarButtonItem(title: "Back", style: UIBarButtonItemStyle.Plain, target:nil, action:nil);
     }
